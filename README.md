@@ -8,7 +8,7 @@
 - Learning Multi Agent Systems and Jason programming Language
 
 ## Environment
-- Javamongo + Jason
+- Java+ Jason
 
 ## Commands
 -  `jason <path to DomesticRobot.mas2j file>` 
