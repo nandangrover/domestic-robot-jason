@@ -4,11 +4,10 @@
 
 <h3 align="center">Domestic Robot Jason</h3>
 
-## Objective
-- Learning Multi Agent Systems and Jason programming Language
-
+## Abstract
+- Created a multiagent system with a cleaning robot, house robot, and a concierge robot in JASON programming language along with it's GUI environment in Java.
 ## Environment
-- Java+ Jason
+- Java + Jason
 
 ## Commands
 -  `jason <path to DomesticRobot.mas2j file>` 
